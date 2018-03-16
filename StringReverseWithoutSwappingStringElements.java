@@ -9,7 +9,7 @@ public class StringReverseWithoutSwappingStringElements {
         Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();
 
-        /*Converting String to Character Type Array*/
+        /*Converting String To Character Type Array*/
         char arr[]=str.toCharArray();
 
         /*Printing Reverse String*/
