@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class StringReverseBySwappingStringElements {
+public class StringReverseBySwapingVariables {
     public static void main(String args[]){
 
         /*Initializing variables*/

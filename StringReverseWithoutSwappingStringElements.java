@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class StringReverseWithoutSwappingStringElements {
@@ -9,7 +8,7 @@ public class StringReverseWithoutSwappingStringElements {
         Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();
 
-        /*Converting String To Character Type Array*/
+        /*Converting String to Character Type Array*/
         char arr[]=str.toCharArray();
 
         /*Printing Reverse String*/
@@ -21,3 +20,4 @@ public class StringReverseWithoutSwappingStringElements {
 
     }
 }
+

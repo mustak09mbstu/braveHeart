@@ -1,4 +1,4 @@
-
+package com.controlstatement;
 import java.util.Scanner;
 
 public class PrimeNumberUsingArray {

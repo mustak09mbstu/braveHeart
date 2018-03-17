@@ -1,4 +1,4 @@
-
+package com.controlstatement;
 import java.util.Scanner;
 
 public class SortingOfArrayElement {
@@ -38,7 +38,7 @@ public class SortingOfArrayElement {
             }
         }
 
-        /*Printing Array Elemet After Sorting*/
+        /*Printing Array Elemet After sorting*/
         System.out.println();
         System.out.println("After sorting Array Elements are: ");
         for (i=0;i<n;i++){
